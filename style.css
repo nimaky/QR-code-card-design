@@ -42,7 +42,6 @@ p.paragraph{
 }
 
 @media  screen and (min-width: 1440px) {
-    .container-card{width: 325px;}
     p{
         padding-right: 1rem;
         padding-left: 1rem;
